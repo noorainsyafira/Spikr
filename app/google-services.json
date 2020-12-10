@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97852986129",
+    "project_id": "spikr-cbced",
+    "storage_bucket": "spikr-cbced.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97852986129:android:54a67ec2cc8358e67b72b0",
+        "android_client_info": {
+          "package_name": "com.example.spikr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97852986129-1l0ivnun065el5a1i4pbu9aaf2nbo4gv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEkTz-Agr_EjWOm2yOQAAlMcFa71DRM4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97852986129-1l0ivnun065el5a1i4pbu9aaf2nbo4gv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
